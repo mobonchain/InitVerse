@@ -1,7 +1,7 @@
 
 # Hướng Dẫn Chạy Node Mining Pool trên Linux (InitVerse Testnet)
 
-Chào mừng bạn đến với hướng dẫn chạy **Node Mining Pool** trên hệ điều hành **Linux (Ubuntu)*. Nếu bạn muốn chạy **Mining Pool** trên **Windows** hoặc **Mining Solo**, vui lòng truy cập **[Mining | InitVerse](https://inichain.gitbook.io/initverseinichain/inichain/mining#mining-pool-setup)**.
+Chào mừng bạn đến với hướng dẫn chạy **Node Mining Pool** trên hệ điều hành **Linux (Ubuntu)**. Nếu bạn muốn chạy **Mining Pool** trên **Windows** hoặc **Mining Solo**, vui lòng truy cập **[Mining | InitVerse](https://inichain.gitbook.io/initverseinichain/inichain/mining#mining-pool-setup)**.
 
 ---
 
