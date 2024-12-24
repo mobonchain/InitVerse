@@ -25,15 +25,11 @@ Chào mừng bạn đến với hướng dẫn chạy **Node Mining Pool** trên
    wget https://github.com/Project-InitVerse/ini-miner/releases/download/v1.0.0/iniminer-linux-x64
    ```
 
-   **Giải thích:** Lệnh `wget` sẽ tải tệp thực thi của miner từ GitHub về hệ thống của bạn.
-
 2. Cấp quyền thực thi cho tệp tải về:
 
    ```bash
    chmod +x iniminer-linux-x64
    ```
-
-   **Giải thích:** Lệnh `chmod +x` sẽ giúp tệp `iniminer-linux-x64` có quyền thực thi, giúp bạn có thể chạy nó.
 
 ---
 
@@ -61,12 +57,9 @@ Chào mừng bạn đến với hướng dẫn chạy **Node Mining Pool** trên
 
 ### Bước 3: Thoát khỏi phiên
 
-Khi bạn chạy lệnh trong `screen`, bạn có thể ngắt kết nối mà không ảnh hưởng đến quá trình mining bằng cách sử dụng:
+Khi bạn chạy lệnh trong `screen`, bạn có thể ngắt kết nối mà không ảnh hưởng đến quá trình mining bằng cách sử dụng`Ctrl + A` và `D`.
 
-- **`Ctrl + A`**: Chế độ điều khiển của `screen`.
-- **`D`**: Để thoát khỏi phiên `screen` mà không dừng chương trình.
-
-Sau khi nhấn `Ctrl + A` và `D`, bạn có thể ngắt kết nối SSH, nhưng mining vẫn tiếp tục chạy ở phía sau. Để quay lại phiên `screen`:
+- Sau khi nhấn `Ctrl + A` và `D`, bạn có thể ngắt kết nối SSH nhưng mining vẫn tiếp tục chạy. Để quay lại phiên `screen` chỉ cần gõ :
 
 ```bash
 screen -r initverse
