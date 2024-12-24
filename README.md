@@ -1,13 +1,13 @@
 
-# Hướng Dẫn Chạy Node Mining Pool trên Linux (Testnet InitVerse)
+# Hướng Dẫn Chạy Node Mining Pool trên Linux (InitVerse Testnet)
 
-Chào mừng bạn đến với hướng dẫn chạy Node Mining Pool trên hệ điều hành Linux (Ubuntu). Nếu bạn muốn chạy Mining Pool trên **Windows** hoặc Mining Solo, vui lòng truy cập [Mining | InitVerse](https://inichain.gitbook.io/initverseinichain/inichain/mining#mining-pool-setup).
+Chào mừng bạn đến với hướng dẫn chạy **Node Mining Pool** trên hệ điều hành **Linux (Ubuntu)*. Nếu bạn muốn chạy **Mining Pool** trên **Windows** hoặc **Mining Solo**, vui lòng truy cập **[Mining | InitVerse](https://inichain.gitbook.io/initverseinichain/inichain/mining#mining-pool-setup)**.
 
 ---
 
 ## Thông Tin Về Cấu Hình
 
-Để tối ưu hiệu suất khi chạy Node Mining Pool, cấu hình máy tính càng mạnh càng tốt. CPU càng nhiều nhân và có hiệu suất mạnh sẽ giúp quá trình đào nhanh chóng và ổn định hơn.
+Để tối ưu hiệu suất khi chạy **Node**, cấu hình máy tính càng mạnh càng tốt. CPU càng nhiều nhân và có hiệu suất mạnh sẽ giúp quá trình đào nhanh chóng và ổn định hơn.
 
 **Lưu ý:** Máy tính với cấu hình mạnh sẽ giúp tăng hiệu quả đào và giảm thiểu khả năng gián đoạn khi tham gia vào mining pool.
 
@@ -90,4 +90,4 @@ Nếu bạn muốn chỉ định các CPU cụ thể để đào, bạn có th�
 
 ---
 
-**Nhóm [TopAME | Chat - Supports](https://t.me/yTopAME)**
+# **Nhóm [TopAME | Chat - Supports](https://t.me/yTopAME)**
